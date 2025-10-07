@@ -17,6 +17,7 @@
 ---
 
 ## 🔨 What I'm Building Right Now
+
 ```yaml
 Payshield: Real-time fraud detection pipeline
   ├─ Tech: Kafka + Flink CEP + PostgreSQL + Redis
@@ -32,10 +33,12 @@ LLM from Scratch: Transformer-based language model (124M parameters)
   ├─ Tech: Python + PyTorch + Custom BPE Tokenizer
   ├─ Pipeline: Pre-training → Fine-tuning → Instruction-tuning
   └─ Why: Deep dive into modern ML architecture beyond using APIs
+```
 
-## **PART 3: What Makes Me Different**
-```markdown
+---
+
 ## 💡 What Makes Me Different
+
 ```diff
 + I don't just code, I ship
   Every project includes CI/CD, testing, monitoring, and infrastructure-as-code
@@ -45,9 +48,10 @@ LLM from Scratch: Transformer-based language model (124M parameters)
 
 + I think full-stack + full-cycle
   From React components to Spring Boot APIs to AWS Fargate to Prometheus alerts
+```
 
-## **PART 4: Tech Stack (Frontend & Backend)**
-```markdown
+---
+
 ## 🛠️ Tech Arsenal
 
 **Frontend**  
@@ -64,8 +68,6 @@ LLM from Scratch: Transformer-based language model (124M parameters)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-
 
 **DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -161,6 +163,7 @@ Real-time chess with P2P video streaming
 ---
 
 ## 📫 Let's Connect
+
 ```javascript
 const parth = {
   location: "Tempe, Arizona",
@@ -171,3 +174,15 @@ const parth = {
 };
 
 // Feel free to reach out!
+```
+
+<div align="center">
+
+**📧 parthpatel.cse@gmail.com**  
+**🔗 [LinkedIn](https://linkedin.com/in/Parth111)** | **💻 [GitHub](https://github.com/Parth-Patel007)**
+
+---
+
+*"Building systems that scale, perform, and stay observable."*
+
+</div>
