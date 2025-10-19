@@ -62,22 +62,22 @@ const parth = {
 <tr>
 <td width="33%" align="center">
 
-### 🛡️ **PAYSHIELD**
-**Real-time Fraud Detection**
+### 📊 **AGILE METRICS**
+**Code Quality Analysis Platform**
 
 ```
-┌─ Performance ────────┐
-│ ⚡ 3000 TPS          │
-│ 🚀 <50ms latency     │
-│ ✅ 0% duplicates     │
-│ 🔧 Kafka + Flink CEP │
+┌─ Metrics ────────────┐
+│ 📈 Fog Index         │
+│ 🐛 Defects Removed   │
+│ 💬 Comment Coverage  │
+│ 🔄 CI/CD Pipeline    │
 └──────────────────────┘
 ```
 
 **Stack:**  
-`Kafka` `Flink` `PostgreSQL` `Redis`
+`React` `Java` `Python` `Docker`
 
-[![View](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parth-Patel007/payshield)
+[![View](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrunal2148/ser516-group-java-2)
 
 </td>
 <td width="33%" align="center">
