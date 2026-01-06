@@ -58,12 +58,6 @@
 
 <!-- SEPARATOR COMMENT -->
 
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- Auto-updated by GitHub Actions -->
-<!--END_SECTION:activity-->
-
 </div>
 
 ---
