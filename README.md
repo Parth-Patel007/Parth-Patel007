@@ -13,10 +13,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=Parth-Patel007&style=for-the-badge&color=00D4FF&labelColor=0D1117"/>
 
-```diff
-@@ 🎯 SEEKING: Full-Stack Engineer | Backend Engineer | DevOps Engineer | Cloud Engineer @@
-@@ 📍 Tempe, Arizona | 🎓 MS Software Engineering @ ASU | Graduating May 2026 @@
-```
+<h3 align="center">
+🎯 <b>SEEKING:</b> Full-Stack Engineer | Backend Engineer | DevOps Engineer | Cloud Engineer
+<br/>
+📍 Tempe, Arizona | 🎓 MS Software Engineering @ ASU | Graduating May 2026
+</h3>
 
 </div>
 
@@ -430,43 +431,7 @@ From design to production monitoring.
 
 ---
 
-<!-- ============ PHILOSOPHY ============ -->
-
 <div align="center">
-
-## 💭 Engineering Philosophy
-
-> ### *"Ship fast, optimize always, monitor everything"*
-
-```javascript
-while (engineering) {
-  design_for_scale();
-  optimize_performance();
-  automate_relentlessly();
-  own_end_to_end();
-}
-```
-
-</div>
-
----
-
-<!-- ============ CONTACT ============ -->
-
-<div align="center">
-
-## 🤝 Let's Build Together
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Parth111)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthpatel.cse@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parth-Patel007)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-**📍 Location:** Tempe, Arizona (Open to relocation)
-**🎓 Education:** MS Software Engineering @ ASU (GPA 3.89/4.00)
-**📅 Available:** May 2026 (Open to internships)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
