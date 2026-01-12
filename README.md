@@ -31,6 +31,12 @@
 
 <!-- SEPARATOR COMMENT -->
 
+### 📅 3D Contribution Calendar
+
+![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
+
+<!-- SEPARATOR COMMENT -->
+
 ### 📈 Performance Metrics
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parth-Patel007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&border_radius=8"/>
@@ -38,18 +44,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Patel007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8&border_radius=8"/>
 <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Parth-Patel007&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=00D4FF&area=true&border_radius=8"/>
-
-<!-- SEPARATOR COMMENT -->
-
-### 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=Parth-Patel007&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Commits,PullRequest,Reviews,Repositories,Stars,Issues,Followers" width="100%"/>
-
-<!-- SEPARATOR COMMENT -->
-
-### 📅 3D Contribution Calendar
-
-![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
 
 <!-- SEPARATOR COMMENT -->
 
