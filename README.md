@@ -137,22 +137,47 @@ PostgreSQL · MongoDB · Redis · Apache Kafka · Apache Flink
 
 ---
 
-## 📊 GitHub Stats (Optional)
-
-<details>
-  <summary>View contribution graphs</summary>
-  <br />
-
-  <p align="center">
-    <img src="https://github.com/Parth-Patel007/Parth-Patel007/raw/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="400" />
-  </p>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Parth-Patel007/Parth-Patel007/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-  </p>
-</details>
-
 ---
+
+## 📊 GitHub Activity Map
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Parth-Patel007&show_icons=true&include_all_commits=true&count_private=true"
+    alt="Parth Patel GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Patel007&layout=compact"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Parth-Patel007"
+    alt="GitHub Activity Graph"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github.com/Parth-Patel007/Parth-Patel007/raw/main/profile-3d-contrib/profile-gitblock.svg"
+    alt="3D Contribution Graph"
+    width="600"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Parth-Patel007/Parth-Patel007/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+    width="600"
+  />
+</p>
+
 
 <p align="center">
   Made with ❤️ by <strong>Parth Patel</strong> · Always learning, always building
