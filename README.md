@@ -64,22 +64,11 @@ PostgreSQL · MongoDB · Redis · Apache Kafka · Apache Flink
 
 | Period              | Organization             | Role                        |
 | ------------------- | ------------------------ | --------------------------- |
-| Feb 2024 – Jun 2024 | IndiaNIC Private Limited | Software Development Intern |
-| Apr 2023 – Jul 2023 | Emerging Five Pvt Ltd    | Software Development Intern |
+| Feb 2026 – Jun 2026 | Chess.com | Software Development Intern |
+| Apr 2023 – Jul 2024 | Emerging Five Pvt Ltd    | Software Development Engineer
+|
 
-### 📝 Highlights
 
-**IndiaNIC Private Limited**  
-- ⚡ **API optimization:** 1s → 300ms (≈70% faster) with **95% payload reduction**  
-- 📈 **User engagement:** +23% via UI/UX overhaul and accessibility improvements  
-- 🐛 Fixed **500+ SonarQube issues** and refactored C#/.NET + React codebase  
-
-**Emerging Five Pvt Ltd**  
-- 👥 Built an app serving **10,000+ users** with **35% efficiency gain**  
-- 📊 Improved UX leading to **+25% engagement** and **−20% data-entry errors**  
-- ✅ Reduced **post-deployment bugs by ~40%** via Jest + Postman testing  
-
----
 
 ## 🚀 Projects
 
